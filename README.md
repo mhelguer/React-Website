@@ -1,5 +1,5 @@
 # About
-This project uses React Hooks and React Router, as well as JS and CSS.
+This project uses React Hooks and React Router, as well as JS and CSS to create a functioning simple website.
 
 # Getting Started
 Install react and react-router-dom:
